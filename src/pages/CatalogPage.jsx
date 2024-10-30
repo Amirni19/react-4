@@ -1,5 +1,5 @@
 import style from './CatalogPage.module.css'
-import { Catalog } from '../../components/Catalog/Catalog'
+import { Catalog } from '../components/Catalog/Catalog'
 
 
 export function Catalog() {

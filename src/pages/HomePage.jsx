@@ -1,4 +1,4 @@
-import style from '../pages/Home.module.css';
+import style from './Home.module.css';
 // import { Banner } from '../components/Banner/BannerPage';
 import { Category } from '../components/Category/Category';
 import { Catalog } from '../components/Catalog/Catalog'
